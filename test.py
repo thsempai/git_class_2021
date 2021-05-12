@@ -1,8 +1,8 @@
 print("Hello :D")
-print("World!")
+print("World...")
 
 answer = input("Comment vas-tu?")
-print("Yo :)")
+print("Yo :D")
 
 
 
